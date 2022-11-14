@@ -64,19 +64,22 @@
     To create a link in HTML you use <a href="url">Link text</a>.
 
 ### 22. What is an attribute?
-    Attributes are the ones that provide additional information about elements. Attributes are always specified in the start tag.
+    Attributes are the ones that provide additional information about elements.
+    Attributes are always specified in the start tag.
 
 ### 23. What attribute tells links where to go?
     The attribute href="url" tells links where they should go.
 
 ### 24. What is the difference between an absolute and relative link?
-    An absolute link contains the full adress of the website. On the other hand the relative link it is on the same root as your site and you can put only the path to that.
+    An absolute link contains the full adress of the website. 
+    On the other hand the relative link it is on the same root as your site and you can put only the path to that.
 
 ### 25. Which element is used to display an image?
     To display an image you should use the tag <img>.
 
 ### 26. What two attributes do images always need to have?
-    Images also need the attributes src="" and alt="" <img src="img.jpg" alt="Image">, alt is optional but best practice is to always use it.
+    Images also need the attributes src="" and alt="" <img src="img.jpg" alt="Image">, 
+    alt is optional but best practice is to always use it.
 
 ### 27. How do you access a parent directory in a file path?
     To access a parent directory you use ../(current directory).
