@@ -1,3 +1,4 @@
-# Brainnest_training
+# Week 1 - HTML
 
-Here you can see all my Brainnest Frondend Developent training exercises.
+In this folder you can find the solutions to week's one exercises.
+There are just some basic pages using only HTML.
